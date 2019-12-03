@@ -1,0 +1,25 @@
+{
+  "name": "glimpse-of-design-pattern",
+  "version": "1.0.0",
+  "description": "implement some design pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "gooff",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gooff327/JavascriptDesignPattern.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gooff327/JavascriptDesignPattern/issues"
+  },
+  "homepage": "https://github.com/gooff327/JavascriptDesignPattern#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
